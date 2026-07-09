@@ -91,7 +91,7 @@ Doc 팀 파이프라인(조사→분석→기획→설계→작성)은 중간중
 | [trading_info](https://github.com/muhwa91/trading_info) | 주식 실시간 모니터링 · 원화 통합 포트폴리오 트래커 | Laravel · Vue 3 · WebSocket |
 | [etf_info](https://github.com/muhwa91/etf_info) | TIGER ETF 실시간 NAV 예측 시뮬레이터 (실측 대비 ~99.9%) | Python · Telegram Bot · GitHub Actions |
 | [ALM-System](https://github.com/muhwa91/ALM-System) | 근로기준법 기준 연차 자동 산정·승인 워크플로우 | Laravel 12 · Vue 3 · Docker |
-| [pdf_restyler](https://github.com/muhwa91/pdf_restyler) | PDF 리스타일링 도구 | Python |
+| [pdf_restyler](https://github.com/muhwa91/pdf_restyler) | 명함 PDF 자동 생성 데스크톱 앱 — 아웃라인 글리프 재구성·redaction, 실사용 배포 | Python · PySide6 · PyMuPDF |
 
 ## 배운 것
 
